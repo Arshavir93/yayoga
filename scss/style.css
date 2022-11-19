@@ -483,7 +483,7 @@ a:hover {
 }
 
 .site-navbar-wrap.scrolled .site-navbar .site-navigation .site-menu > li.active > a {
-  color: #87e5da !important;
+  color: #c0c5a3 !important;
 }
 
 .site-mobile-menu {
@@ -683,7 +683,7 @@ a:hover {
   bottom: 0;
   right: 0;
   top: 0;
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(0, 0, 0, 0.1);
 }
 
 .site-blocks-cover, .site-blocks-cover .row {
