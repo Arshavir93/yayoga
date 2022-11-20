@@ -1250,7 +1250,7 @@
 	.accordion-title {
 	  position: relative;
 	  display: block;
-	  padding: 16px 0 16px 50px;
+	  padding: 14px 10px 14px 42px;
 	  background: #abb18b;
 	  border-radius: 8px;
 	  overflow: hidden;
@@ -1262,6 +1262,7 @@
 	  text-align: left;
 	  transition: all 0.4s ease-in-out;
 	  font-size: 1.25rem;
+	  white-space: normal;
 	  i {
 		position: absolute;
 		width: 40px;
